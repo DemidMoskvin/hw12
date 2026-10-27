@@ -12,3 +12,4 @@ print(sorty(test1))
 print(sorty(test2))
 print(sorty(test3))
 print(sorty(test4))
+#You could try using names for variables to help you navigate more easily. But maybe it's more convenient for you, it's great too.
