@@ -12,3 +12,4 @@ print(sorty(test1))
 print(sorty(test2))
 print(sorty(test3))
 print(sorty(test4))
+# "how many comparisons you have to execute for a list of 5 items, 10 items, n items" – Aleksei Vitalievich may ask question about it
